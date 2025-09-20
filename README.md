@@ -8,13 +8,6 @@ This repository contains my practice work on data cleaning and preparation using
 # The goal of this project is to:  
 - Practice identifying and handling messy data  
 - Explore different Excel functions and features for cleaning  
-- Build simple summaries and visualizations  
-
-#Screenshots  
-#Basic Pivot Table  
-![Pivot Screenshot](images/PivotTable.jpg)  
-
-#Dashboard View  
-![Dashboard Screenshot](images/dashboard.jpg)  
+- Build simple summaries and visualizations
  
 
