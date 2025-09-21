@@ -22,12 +22,14 @@ This repository contains my practice work on data cleaning and preparation using
 - Charts: generated charts for visualization of sales for easier analysis.
 
 # Project Screenshots:
--Raw Data
+- Raw Data
 ![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Raw%20File.jpg)
 - Cleaned data
 ![image alt](https://github.com/aaliyeah/clean_data/blob/2a58185df2c4c484fb43e3eb3e4c5b5b66985c66/Cleaned_Cafe%20Sales.jpg)
--Pivot Table
+- Pivot Table
 ![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Pivot%20Table.jpg)
--Dashboard
+- Dashboard
 ![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Dashboard.jpg)
 
+# Conclusion: 
+The workbook provides a clearer view for analysis of the Cafe Sales in the year 2023, the total sales within the year is easily seen. However, it is apparent that there are "unknown" values in the Item, Location, Payment Method and Transaction date fields, and since the dataset was outsourced, it was transformed based only on the given data. With these inconsistencies, the whole data should be interpreted with caution and should be attended for a much realiable analysis in the future. Nonetheless, it can be said that the Total Sales are fully captured and the goal of the project was reached.
