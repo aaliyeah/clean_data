@@ -22,5 +22,12 @@ This repository contains my practice work on data cleaning and preparation using
 - Charts: generated charts for visualization of sales for easier analysis.
 
 # Project Screenshots:
+-Raw Data
+![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Raw%20File.jpg)
 - Cleaned data
 ![image alt](https://github.com/aaliyeah/clean_data/blob/2a58185df2c4c484fb43e3eb3e4c5b5b66985c66/Cleaned_Cafe%20Sales.jpg)
+-Pivot Table
+![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Pivot%20Table.jpg)
+-Dashboard
+![image alt](https://github.com/aaliyeah/clean_data/blob/71b5add9409db8c68d70482205594fc67ca32d1e/Dashboard.jpg)
+
